@@ -1,16 +1,23 @@
 ## Hi there 👋
+# Hi there, I'm Mostafa Eltaweel! 👋
 
-<!--
-**ailapfordataanalytics-cyber/ailapfordataanalytics-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst & Statistics Enthusiast
 
-Here are some ideas to get you started:
+I am a Data Analyst with a strong background in Probability & Statistics. I specialize in statistical modeling, exploring distributions, and conducting exploratory data analysis (EDA) to derive meaningful conclusions from complex datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+- **Data Analysis & EDA:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebooks
+- **Statistics:** Probability Theory, Random Variables, Sampling Distributions, Inferential Statistics
+- **Core Interests:** Predictive Analytics, Statistical Modeling, Cyber Data Analytics
+
+---
+
+### 📌 Featured Projects
+- 📈 **Sales EDA Project:** Exploratory analysis of sales datasets to uncover revenue trends.
+- 🎓 **Student Analysis:** Statistical examination of student performance and behavioral factors.
+
+---
+
+📫 Feel free to reach out if you'd like to collaborate on Data Analytics or Applied Statistics projects!
